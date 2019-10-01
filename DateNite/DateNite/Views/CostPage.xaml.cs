@@ -11,5 +11,11 @@ namespace DateNite.Views
         {
             InitializeComponent();
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            lblCost.Text = App.dateCalc.GetTotalCost();
+        }
     }
 }

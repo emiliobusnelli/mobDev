@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.MoviePage" Padding="20,20,20,20">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.MoviePage" Padding="20,100,20,20">
     <ContentPage.Content>
-        <Label Text="Movie Page" Font="60" />
+        <StackLayout>
+            <Label Text="Lets catch a movie!" FontSize="Large" HorizontalOptions="Center"/>
+            <Image Source="movie.jpg" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Entry x:Name="txtMovie" Placeholder="Total Cost of Movie" />
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

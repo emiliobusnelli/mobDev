@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.DinnerPage" Padding="20,20,20,20">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.DinnerPage" Padding="20,100,20,20">
     <ContentPage.Content>
-        <Label Text="Dinner Page" Font="60" />
+        <StackLayout>
+            <Label Text="Lets grab a bite to eat" FontSize="Large" HorizontalOptions="Center"/>
+            <Image Source="dinner.jpg" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Entry x:Name="txtDinner" Placeholder="Total Cost of Dinner" />
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

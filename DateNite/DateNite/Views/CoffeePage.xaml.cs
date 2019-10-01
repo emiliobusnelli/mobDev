@@ -11,5 +11,11 @@ namespace DateNite.Views
         {
             InitializeComponent();
         }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            App.dateCalc.CoffeeCost = txtCoffee.Text;
+        }
     }
 }

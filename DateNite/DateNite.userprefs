@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{08E3C478-6E0F-45D3-8E9C-09D116578C78}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DateNite/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateNite/model/DateCalculator.cs">
     <Files>
-      <File FileName="DateNite/Views/CoffeePage.xaml" Line="2" Column="132" />
-      <File FileName="DateNite/Views/MoviePage.xaml" Line="2" Column="132" />
-      <File FileName="DateNite/Views/DinnerPage.xaml" Line="2" Column="132" />
-      <File FileName="DateNite/Views/CostPage.xaml" Line="6" Column="15" />
+      <File FileName="DateNite/Views/CoffeePage.xaml" Line="6" Column="37" />
+      <File FileName="DateNite/Views/CostPage.xaml" Line="7" Column="92" />
+      <File FileName="DateNite/Views/DinnerPage.xaml" Line="2" Column="165" />
+      <File FileName="DateNite/Views/MoviePage.xaml" Line="2" Column="164" />
+      <File FileName="DateNite/model/DateCalculator.cs" Line="34" Column="1" />
+      <File FileName="DateNite/App.xaml.cs" Line="16" Column="45" />
+      <File FileName="DateNite/Views/CoffeePage.xaml.cs" Line="18" Column="54" />
+      <File FileName="DateNite/Views/DinnerPage.xaml.cs" Line="18" Column="54" />
+      <File FileName="DateNite/Views/MoviePage.xaml.cs" Line="18" Column="52" />
+      <File FileName="DateNite/Views/CostPage.xaml.cs" Line="18" Column="56" />
       <File FileName="DateNite/TabController.cs" Line="4" Column="1" />
-      <File FileName="DateNite/App.xaml.cs" Line="14" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -121,7 +121,7 @@
     <Compile Include="AppDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\coffee.jpeg" />
+    <BundleResource Include="Resources\coffee.jpg" />
     <BundleResource Include="Resources\coffeetab.png" />
     <BundleResource Include="Resources\cost.jpg" />
     <BundleResource Include="Resources\costtab.png" />

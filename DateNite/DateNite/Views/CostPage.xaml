@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.CostPage" Padding="20,20,20,20">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DateNite.Views.CostPage" Padding="20,100,20,20">
     <ContentPage.Content>
-        <Label Text="Cost Page" Font="60" />
+        <StackLayout>
+            <Label Text="Total Cost of Date" FontSize="Large" HorizontalOptions="Center"/>
+            <Image Source="cost.jpg" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Label x:Name="lblCost" FontSize="Large" Text="$0.00" HorizontalOptions="Center"/>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
