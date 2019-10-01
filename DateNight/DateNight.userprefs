@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4919FCC1-E9E3-4DCD-A862-4E6E0DA10F01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateNight/packages.config">
+    <Files>
+      <File FileName="DateNight/Views/CoffeePage.xaml" Line="7" Column="1" />
+      <File FileName="DateNight/Views/CoffeePage.xaml.cs" Line="13" Column="13" />
+      <File FileName="DateNight/Views/CostPage.xaml.cs" Line="13" Column="13" />
+      <File FileName="DateNight/packages.config" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DateNight.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DateNight.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
