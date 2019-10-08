@@ -1,0 +1,16 @@
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/PlatosCalculator.dll
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/PlatosCalculator.pdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Core.dll
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Core.xml
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.csproj.CoreCompileInputs.cache
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.App.xaml.g.cs
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.PlatosCalculatorPage.xaml.g.cs
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.dll
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.pdb

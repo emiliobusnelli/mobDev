@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:PlatosCalculator" 
+    x:Class="PlatosCalculator.PlatosCalculatorPage" Padding="20,20,20,20">
+    <StackLayout HorizontalOptions="Center">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/> <!-- 0 | Padding -->
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="30"/> <!-- 2 | Padding -->
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="30"/> <!-- 4 | Padding -->
+                <RowDefinition Height="auto"/> 
+                <RowDefinition Height="30"/> <!-- 6 | Padding -->
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="30"/> <!-- 8 | Padding -->
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="50"/> <!-- 10 | Padding -->
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="50"/> <!-- 12 | Padding -->
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Label Text="Platos Love Calculator" VerticalOptions="Center" HorizontalOptions="Center" 
+            FontSize="30" Grid.Row="1" HorizontalTextAlignment="Center"/>
+            <Image Source="cupid.jpg" HorizontalOptions="Center" Grid.Row="3"/>
+            <Picker x:Name="pkrGender" Title="-- Select Gender --" Grid.Row="5" SelectedIndexChanged="Handle_SelectedIndexChanged"/>
+            <Entry x:Name="txtAge" Placeholder="Enter Age Here" Grid.Row="7" Keyboard="Numeric" HorizontalTextAlignment="Center"/>
+            <Label x:Name="lblOptAgeTitle" Text="Your Optimum Partner Age is..." Grid.Row="9" HorizontalTextAlignment="Center"/>
+            <Label x:Name="lblOptAge" Text="???" Grid.Row="11" HorizontalTextAlignment="Center"/>
+            <Button x:Name="btnCalc" Text="Calculate Optimum Age" Grid.Row="13" Clicked="Calc_Clicked"/>
+        </Grid>        
+    </StackLayout>
+
+
+</ContentPage>
