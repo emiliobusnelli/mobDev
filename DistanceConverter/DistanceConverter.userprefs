@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C729B299-B807-4B6D-9DFE-1743CB851F15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DistanceConverter/Views/DistanceConverterPage.xaml">
+    <Files>
+      <File FileName="DistanceConverter/Views/DistanceConverterPage.xaml" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DistanceConverter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DistanceConverter.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:DistanceConverter" x:Class="DistanceConverter.DistanceConverterPage" Padding="20,20,20,20">
+    <StackLayout>
+        <ScrollView>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" /> <!-- 0 -->
+                    <ColumnDefinition Width="*" /> <!-- 0 -->
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="10"/> <!-- 0 | Padding  -->
+                    <RowDefinition Height="auto"/> <!-- 1 -->
+                    <RowDefinition Height="10"/> <!-- 2 | Padding -->
+                    <RowDefinition Height="auto"/> <!-- 3 -->
+                    <RowDefinition Height="10"/> <!-- 4 | Padding -->
+                    <RowDefinition Height="auto"/> <!-- 5 -->
+
+                    <RowDefinition Height="60"/> <!-- 6 | Padding -->
+                    <RowDefinition Height="auto"/> <!-- 7 -->
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="1" Grid.Column="0" Text="Meters"/>
+                <Entry Grid.Row="1" Grid.Column="1" x:Name="txtMeters"/>
+
+                <Label Grid.Row="3" Grid.Column="0" Text="Inches"/>
+                <Entry Grid.Row="3" Grid.Column="1" x:Name="txtInches"/>
+
+                <Label Grid.Row="5" Grid.Column="0" Text="Feet"/>
+                <Entry Grid.Row="5" Grid.Column="1" x:Name="txtFeet"/>
+
+                <StackLayout Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" 
+                    Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+
+                    <Button Text="Convert" x:Name="btnConvert" HorizontalOptions="FillAndExpand"/>
+                    <Button Text="Clear" x:Name="btnClear" HorizontalOptions="FillAndExpand"/>
+                    
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>
