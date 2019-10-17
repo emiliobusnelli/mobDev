@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{2166A4C9-8E2E-4ADC-BCBE-4453E34FBBCC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CaouselDemo/CaouselDemoPage.xaml.cs">
     <Files>
-      <File FileName="CaouselDemo/CaouselDemoPage.xaml" Line="15" Column="28" />
+      <File FileName="CaouselDemo/CaouselDemoPage.xaml" Line="17" Column="16" />
       <File FileName="CaouselDemo/CaouselDemoPage.xaml.cs" Line="22" Column="59" />
     </Files>
   </MonoDevelop.Ide.Workbench>

@@ -1,0 +1,17 @@
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/SaveStuff.dll
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/SaveStuff.pdb
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Core.dll
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Core.xml
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.csprojResolveAssemblyReference.cache
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.csproj.CoreCompileInputs.cache
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.App.xaml.g.cs
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.SaveStuffPage.xaml.g.cs
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.dll
+/Users/student/Projects/mobDev/SaveStuff/SaveStuff/obj/Debug/SaveStuff.pdb

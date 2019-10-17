@@ -14,3 +14,4 @@
 /Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.PlatosCalculatorPage.xaml.g.cs
 /Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.dll
 /Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.pdb
+/Users/student/Projects/mobDev/PlatosCalculator/PlatosCalculator/obj/Debug/PlatosCalculator.csprojResolveAssemblyReference.cache

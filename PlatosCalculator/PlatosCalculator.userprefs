@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{885CEF50-A639-4244-B619-E52E7BD30C8E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatosCalculator/PlatosCalculatorPage.xaml.cs">
     <Files>
-      <File FileName="PlatosCalculator/PlatosCalculatorPage.xaml" Line="31" Column="24" />
-      <File FileName="PlatosCalculator/PlatosCalculatorPage.xaml.cs" Line="35" Column="52" />
+      <File FileName="PlatosCalculator/PlatosCalculatorPage.xaml" Line="30" Column="34" />
+      <File FileName="PlatosCalculator/PlatosCalculatorPage.xaml.cs" Line="37" Column="65" />
       <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
