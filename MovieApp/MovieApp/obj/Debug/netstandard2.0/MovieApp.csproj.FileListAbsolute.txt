@@ -1,0 +1,14 @@
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/bin/Debug/netstandard2.0/MovieApp.deps.json
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/bin/Debug/netstandard2.0/MovieApp.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/bin/Debug/netstandard2.0/ref/MovieApp.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/bin/Debug/netstandard2.0/MovieApp.pdb
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/MovieApp.csprojAssemblyReference.cache
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/MovieApp.AssemblyInfoInputs.cache
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/MovieApp.AssemblyInfo.cs
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/MovieApp.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/ref/MovieApp.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/MovieApp.pdb
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/Views/AddPage.xaml.g.cs
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp/obj/Debug/netstandard2.0/Views/FindPage.xaml.g.cs

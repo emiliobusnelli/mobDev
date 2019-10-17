@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1C3CDB7E-E620-4C81-917B-A2580E6B2CDF}|Default">
+  <MonoDevelop.Ide.ItemProperties.SaveStuff.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.786FF735-8922-414C-AA35-E5FDC94718BC">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SaveStuff.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveStuff/SaveStuffPage.xaml.cs">
+    <Files>
+      <File FileName="SaveStuff/SaveStuffPage.xaml" Line="9" Column="19" />
+      <File FileName="SaveStuff/SaveStuffPage.xaml.cs" Line="32" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaveStuff" expanded="True">
+            <Node name="SaveStuff" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="SaveStuffPage.xaml" expanded="True">
+                <Node name="SaveStuffPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
