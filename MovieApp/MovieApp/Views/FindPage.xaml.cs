@@ -22,7 +22,7 @@ namespace MovieApp.Views
 
             lstMovies.ItemTemplate = MovieTemplate;
 
-            lstMovies.ItemsSource = App.MovieList;
+            lstMovies.ItemsSource = App.SQLiteDB.MovieList();
         }
     }
 }

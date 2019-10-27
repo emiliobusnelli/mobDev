@@ -58,3 +58,6 @@
 /Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.1/optimized/add.png
 /Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.1/optimized/find.png
 /Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.1/optimized/
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Async.dll
+/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll

@@ -9,13 +9,22 @@ namespace MovieApp
 {
     public partial class App : Application
     {
-        public static List<Movie> MovieList;
+
+        static Database _movieDB;
+
+        public static Database SQLiteDB
+        {
+            get{
+                if (_movieDB==null){
+                    _movieDB = new Database();
+                }
+                return _movieDB;
+            }
+        }
 
         public App()
         {
             InitializeComponent();
-
-            MovieList = new List<Movie>();
 
             MainPage = new TabLayout();
         }

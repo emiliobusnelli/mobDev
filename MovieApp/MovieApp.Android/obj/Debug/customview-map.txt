@@ -31,12 +31,14 @@ item;obj/Debug/res/values/styles.xml
 LinearLayout;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/layout/bottomtablayout.xml
 paths;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 resources;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/values/styles.xml
+resources;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/41/jl/res/values/strings.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/styles.xml
 set;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/anim/enterfromleft.xml
 set;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/anim/enterfromright.xml
 set;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/anim/exittoleft.xml
 set;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/anim/exittoright.xml
+string;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/41/jl/res/values/strings.xml
 style;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/values/styles.xml
 style;obj/Debug/res/values/styles.xml
 translate;/Users/emilio/Documents/GitHub/mobDev/MovieApp/MovieApp.Android/obj/Debug/lp/39/jl/res/anim/enterfromleft.xml
