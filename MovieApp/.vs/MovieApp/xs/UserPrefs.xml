@@ -1,14 +1,12 @@
 ﻿<Properties StartupConfiguration="{4FAE9AEB-7504-4AC6-9030-4D27E7D62282}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieApp/Views/FindPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieApp/App.xaml.cs">
     <Files>
-      <File FileName="MovieApp/Custom/ISQLite.cs" Line="8" Column="42" />
-      <File FileName="MovieApp.iOS/Custom/SQLite_IOS.cs" Line="24" Column="74" />
+      <File FileName="MovieApp/Custom/ISQLite.cs" Line="9" Column="6" />
+      <File FileName="MovieApp.iOS/Custom/SQLite_IOS.cs" Line="26" Column="6" />
       <File FileName="MovieApp.Android/Custom/SQLite_Droid.cs" Line="23" Column="63" />
-      <File FileName="MovieApp/Custom/Database.cs" Line="32" Column="10" />
-      <File FileName="MovieApp/Models/Movie.cs" Line="3" Column="1" />
-      <File FileName="MovieApp/App.xaml.cs" Line="19" Column="47" />
-      <File FileName="MovieApp/Views/AddPage.xaml.cs" Line="22" Column="44" />
-      <File FileName="MovieApp/Views/FindPage.xaml.cs" Line="25" Column="49" />
+      <File FileName="MovieApp/Custom/Database.cs" Line="37" Column="42" />
+      <File FileName="MovieApp/Models/Movie.cs" Line="13" Column="22" />
+      <File FileName="MovieApp/App.xaml.cs" Line="21" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,11 +17,17 @@
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="AddPage.xaml" expanded="True" />
-                <Node name="FindPage.xaml" expanded="True">
-                  <Node name="FindPage.xaml.cs" selected="True" />
-                </Node>
+                <Node name="FindPage.xaml" expanded="True" />
               </Node>
-              <Node name="App.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MovieApp.Android" expanded="True">
+              <Node name="Custom" expanded="True" />
+            </Node>
+            <Node name="MovieApp.iOS" expanded="True">
+              <Node name="Custom" expanded="True" />
             </Node>
           </Node>
         </State>
