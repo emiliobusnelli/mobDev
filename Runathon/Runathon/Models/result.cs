@@ -20,7 +20,7 @@ namespace Runathon.Models
         {  
             get 
             {
-                return placement + " Place    Ttime: " + time;
+                return placement + " Place    Time: " + time;
             }
         }
     }

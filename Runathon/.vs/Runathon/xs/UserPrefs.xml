@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{91E0316E-FB16-4EEA-B06F-037A494E7456}|Default">
+  <MonoDevelop.Ide.ItemProperties.Runathon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DD58FD4F-BAC9-4EC8-86DC-CDF530755010">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Runathon.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Runathon/Models/result.cs">
+    <Files>
+      <File FileName="Runathon/RunathonPage.xaml" Line="9" Column="19" />
+      <File FileName="Runathon/RunathonPage.xaml.cs" />
+      <File FileName="Runathon/Models/race.cs" />
+      <File FileName="Runathon/Models/result.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Runathon" expanded="True">
+            <Node name="Runathon" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="result.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
