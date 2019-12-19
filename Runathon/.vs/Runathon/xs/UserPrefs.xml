@@ -1,22 +1,24 @@
 ﻿<Properties StartupConfiguration="{91E0316E-FB16-4EEA-B06F-037A494E7456}|Default">
-  <MonoDevelop.Ide.ItemProperties.Runathon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DD58FD4F-BAC9-4EC8-86DC-CDF530755010">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.Runathon.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Runathon/Models/result.cs">
+  <MonoDevelop.Ide.ItemProperties.Runathon.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
     <Files>
-      <File FileName="Runathon/RunathonPage.xaml" Line="9" Column="19" />
-      <File FileName="Runathon/RunathonPage.xaml.cs" />
-      <File FileName="Runathon/Models/race.cs" />
-      <File FileName="Runathon/Models/result.cs" Line="7" Column="6" />
+      <File FileName="Runathon/RunathonPage.xaml" Line="7" Column="30" />
+      <File FileName="Runathon/RunathonPage.xaml.cs" Line="50" Column="10" />
+      <File FileName="Runathon/Models/race.cs" Line="14" Column="2" />
+      <File FileName="Runathon/Models/result.cs" Line="23" Column="54" />
+      <File FileName="iOS/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Runathon" expanded="True">
             <Node name="Runathon" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="result.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="RunathonPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Runathon.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
             </Node>
           </Node>
         </State>

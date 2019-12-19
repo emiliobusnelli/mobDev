@@ -1,0 +1,13 @@
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/ref/CustomGPS.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/bin/Debug/netstandard2.0/CustomGPS.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/ref/CustomGPS.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/CustomGPS/CustomGPS/obj/Debug/netstandard2.0/CustomGPS.pdb

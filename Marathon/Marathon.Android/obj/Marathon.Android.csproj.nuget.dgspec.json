@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj": {}
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj": {}
   },
   "projects": {
-    "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj": {
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj",
+        "projectUniqueName": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj",
         "projectName": "Marathon.Android",
-        "projectPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj",
+        "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.Android/Marathon.Android.csproj",
         "packagesPath": "/Users/emilio/.nuget/packages/",
-        "outputPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.Android/obj/",
+        "outputPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
-                "projectPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj"
+              "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
+                "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj",
+        "projectUniqueName": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj",
         "projectName": "Marathon",
-        "projectPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj",
+        "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj",
         "packagesPath": "/Users/emilio/.nuget/packages/",
-        "outputPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/obj/",
+        "outputPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

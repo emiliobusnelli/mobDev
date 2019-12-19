@@ -1,0 +1,9 @@
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+item;obj/Debug/res/values/styles.xml
+resources;/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/HelloWorld/Droid/obj/Debug/lp/24/jl/res/values/strings.xml
+resources;/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/HelloWorld/Droid/obj/Debug/lp/25/jl/res/values/strings.xml
+resources;obj/Debug/res/values/styles.xml
+string;/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/HelloWorld/Droid/obj/Debug/lp/24/jl/res/values/strings.xml
+string;/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/HelloWorld/Droid/obj/Debug/lp/25/jl/res/values/strings.xml
+style;obj/Debug/res/values/styles.xml

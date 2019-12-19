@@ -11,3 +11,16 @@
 /Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.dll
 /Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/ref/Marathon.dll
 /Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/bin/Debug/netstandard2.0/ref/Marathon.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/bin/Debug/netstandard2.0/Marathon.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/ref/Marathon.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/obj/Debug/netstandard2.0/Marathon.pdb

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.6.292" />
+    <PackageReference Include="Rg.Plugins.Popup" Version="1.2.0.223" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Views\DinnerPage.cs" />
+    <Compile Remove="MainPage.xaml.cs" />
+    <Compile Remove="Views\FootagePage.xaml.cs" />
+    <Compile Remove="Views\LengthPage.cs" />
+    <Compile Remove="Custom\ISQLite.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="MainPage.xaml" />
+    <EmbeddedResource Remove="Views\FootagePage.xaml" />
+    <EmbeddedResource Remove="Views\EstimationPage %28copy%29.xaml" />
+  </ItemGroup>
+</Project>

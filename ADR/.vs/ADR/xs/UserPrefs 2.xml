@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C61649A7-B162-4BE4-A790-C68B0EE4E159}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADR/TabController.cs">
+    <Files>
+      <File FileName="ADR/Model/DeckCalculator.cs" Line="39" Column="18" />
+      <File FileName="ADR/Views/LengthPage.xaml.cs" Line="177" Column="33" />
+      <File FileName="ADR/Views/StainPage.xaml" Line="17" Column="21" />
+      <File FileName="ADR/Views/EstimationPage.xaml" Line="12" Column="45" />
+      <File FileName="ADR/Views/EstimationPage.xaml.cs" Line="18" Column="56" />
+      <File FileName="ADR/Views/LengthPage.xaml" Line="18" Column="46" />
+      <File FileName="ADR/TabController.cs" Line="12" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADR" expanded="True">
+            <Node name="ADR" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="TabController.cs" selected="True" />
+            </Node>
+            <Node name="ADR.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ADR.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ADR.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

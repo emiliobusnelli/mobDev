@@ -1,28 +1,27 @@
 ﻿<Properties StartupConfiguration="{B1907322-75D2-42CA-A2F4-29843F6A18D8}|Default">
-  <MonoDevelop.Ide.ItemProperties.Marathon.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/13.4.0.2/lib/msbuild/iOS/Xamarin.iOS.Common.targets">
+  <MonoDevelop.Ide.ItemProperties.Marathon.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D79B1B26-99F4-4F92-9638-C74661C42572" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Marathon/MainPage.xaml">
     <Files>
       <File FileName="Marathon/MainPage.xaml" Line="10" Column="15" />
-      <File FileName="Marathon/MainPage.xaml.cs" Line="43" Column="1" />
-      <File FileName="Marathon/Models/Race.cs" Line="15" Column="1" />
+      <File FileName="Marathon/MainPage.xaml.cs" Line="41" Column="6" />
+      <File FileName="Marathon/Models/Race.cs" />
       <File FileName="Marathon.iOS/Info.plist" />
-      <File FileName="../../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" Line="696" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Marathon" expanded="True">
             <Node name="Marathon" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
-            <Node name="Marathon.iOS" expanded="True" selected="True" />
+            <Node name="Marathon.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Marathon.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

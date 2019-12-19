@@ -1,0 +1,13 @@
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/ref/RoundedCorners.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/bin/Debug/netstandard2.0/RoundedCorners.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/ref/RoundedCorners.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/RoundedCorners/RoundedCorners/obj/Debug/netstandard2.0/RoundedCorners.pdb

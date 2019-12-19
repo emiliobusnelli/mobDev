@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E50AD0B7-A039-43B2-AA57-44DAFC39F251}|Default">
+  <MonoDevelop.Ide.ItemProperties.AWSDemo.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AWSDemo/MainPage.xaml">
+    <Files>
+      <File FileName="AWSDemo/MainPage.xaml" Line="3" Column="26" />
+      <File FileName="AWSDemo/MainPageViewModel.cs" Line="43" Column="10" />
+      <File FileName="AWSDemo/App.xaml.cs" Line="13" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AWSDemo" expanded="True">
+            <Node name="AWSDemo" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AWSDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

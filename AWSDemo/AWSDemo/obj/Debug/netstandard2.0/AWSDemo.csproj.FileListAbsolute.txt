@@ -1,0 +1,13 @@
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/bin/Debug/netstandard2.0/AWSDemo.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/bin/Debug/netstandard2.0/AWSDemo.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/bin/Debug/netstandard2.0/ref/AWSDemo.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/bin/Debug/netstandard2.0/AWSDemo.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/AWSDemo.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/AWSDemo.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/AWSDemo.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/AWSDemo.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/ref/AWSDemo.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/Debug/netstandard2.0/AWSDemo.pdb

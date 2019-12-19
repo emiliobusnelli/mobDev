@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{70DF5647-11FB-4828-8B0B-DD792F053ED7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoundedCorners.Android/Custom/ImageBoxRenderer.cs">
+    <Files>
+      <File FileName="RoundedCorners/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RoundedCorners/MainPage.xaml" Line="6" Column="10" />
+      <File FileName="RoundedCorners/Custom/ImageBox.cs" Line="11" Column="1" />
+      <File FileName="RoundedCorners.iOS/Custom/ImageBoxRenderer.cs" Line="18" Column="36" />
+      <File FileName="RoundedCorners.Android/Custom/ImageBoxRenderer.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundedCorners" expanded="True">
+            <Node name="RoundedCorners" expanded="True">
+              <Node name="Custom" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="RoundedCorners.Android" expanded="True">
+              <Node name="Custom" expanded="True" />
+            </Node>
+            <Node name="RoundedCorners.iOS" expanded="True" selected="True">
+              <Node name="Custom" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5ECB648A-728F-489F-BCB9-9B21F36607CD" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

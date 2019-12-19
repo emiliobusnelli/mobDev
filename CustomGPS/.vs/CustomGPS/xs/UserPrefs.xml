@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1EB01D09-58BB-4C13-A91F-131FCA9A704A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomGPS.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomGPS/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CustomGPS/MainPage.xaml" Line="10" Column="15" />
+      <File FileName="CustomGPS/MainPage.xaml.cs" Line="34" Column="45" />
+      <File FileName="CustomGPS/Custom/ICurrentLocation.cs" />
+      <File FileName="CustomGPS.iOS/Custom/GetCurrentLocation.cs" />
+      <File FileName="CustomGPS/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomGPS" expanded="True">
+            <Node name="CustomGPS" expanded="True">
+              <Node name="Custom" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CustomGPS.iOS" expanded="True">
+              <Node name="Custom" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomGPS.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

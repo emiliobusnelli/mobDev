@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo.Android/AWSDemo.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo.Android/AWSDemo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo.Android/AWSDemo.Android.csproj",
+        "projectName": "AWSDemo.Android",
+        "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo.Android/AWSDemo.Android.csproj",
+        "packagesPath": "/Users/emilio/.nuget/packages/",
+        "outputPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/emilio/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/AWSDemo.csproj": {
+                "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/AWSDemo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.3.101.2, )"
+            },
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.102.2, )"
+            },
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/AWSDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/AWSDemo.csproj",
+        "projectName": "AWSDemo",
+        "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/AWSDemo.csproj",
+        "packagesPath": "/Users/emilio/.nuget/packages/",
+        "outputPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/AWSDemo/AWSDemo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/emilio/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.3.101.2, )"
+            },
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.102.2, )"
+            },
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

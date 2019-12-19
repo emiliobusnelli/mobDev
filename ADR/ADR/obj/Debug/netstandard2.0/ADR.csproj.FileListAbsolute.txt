@@ -1,0 +1,16 @@
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/bin/Debug/netstandard2.0/ADR.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/bin/Debug/netstandard2.0/ADR.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/bin/Debug/netstandard2.0/ref/ADR.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/bin/Debug/netstandard2.0/ADR.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/Views/EstimateDetailPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/Views/EstimateListPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/Views/EstimationPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/Views/LengthPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ADR.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ADR.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ADR.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ref/ADR.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ADR.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/ADR/ADR/obj/Debug/netstandard2.0/ADR.csprojAssemblyReference.cache

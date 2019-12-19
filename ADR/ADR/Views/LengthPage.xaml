@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ADR.Views.LengthPage" Padding="20,20,20,20"  BackgroundColor="#202020">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#202020">
+                <Button Text="Clear Form" HorizontalOptions="Center" Padding="20,5" Clicked="ClearForm_Clicked" BackgroundColor="#408e42" TextColor="White"/>
+                <StackLayout Margin="5,10,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Deck (ft2)" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtDeckSqFt" Placeholder="Square Footage of Deck" />
+                    <Picker x:Name="pkrDeckCost"  Title="Price of Deck" SelectedIndexChanged="DeckCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>6</x:String>
+                            <x:String>7</x:String>
+                            <x:String>8</x:String>
+                            <x:String>9</x:String>
+                            <x:String>10</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblDeckTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+                
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Spindals (LF)" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtSpindalLiFt" Placeholder="Linear Footage of Spindals" />
+                    <Picker x:Name="pkrSpindalCost" Title="Price of Spindals" SelectedIndexChanged="SpindalCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>25</x:String>
+                            <x:String>30</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblSpindalTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Rails (LF)" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtRailLiFt" Placeholder="Linear Footage of Rails" />
+                    <Picker x:Name="pkrRailCost" Title="Price of Rails" SelectedIndexChanged="RailCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>10</x:String>
+                            <x:String>15</x:String>
+                            <x:String>20</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblRailTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Fasca (LF)" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtFascaLiFt" Placeholder="Linear Footage of Fasca" />
+                    <Picker x:Name="pkrFascaCost" Title="Price of Fasca" SelectedIndexChanged="FascaCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>6</x:String>
+                            <x:String>7</x:String>
+                            <x:String>8</x:String>
+                            <x:String>9</x:String>
+                            <x:String>10</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblFascaTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Skirting (LF)" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtSkirtLiFt" Placeholder="Square Footage of Skirting" />
+                    <Picker x:Name="pkrSkirtCost" Title="Price of Skirting" SelectedIndexChanged="SkirtingCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>10</x:String>
+                            <x:String>15</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblSkirtTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="# of Steps" FontSize="20" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtNumSteps" Placeholder="Number of Steps" />
+                    <Picker x:Name="pkrStepCost" Title="Price of Steps" SelectedIndexChanged="StepCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>50</x:String>
+                            <x:String>75</x:String>
+                            <x:String>100</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblStepTtl" Text="Total: " FontSize="20" />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="# of Posts" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtNumPosts" Placeholder="Number of Posts" />
+                    <Picker x:Name="pkrPostCost" Title="Price of Posts" SelectedIndexChanged="PostCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>50</x:String>
+                            <x:String>75</x:String>
+                            <x:String>100</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblPostTtl" Text="Total: " />
+                </StackLayout>
+
+                <StackLayout Margin="5,5,5,5" Padding="10,5" BackgroundColor="#9c1f28">
+                    <Label Text="Beams (LF)" Margin="0,5" FontAttributes="Bold"/>
+                    <Entry x:Name="txtBeamType" Placeholder="Type of Beam: 1 = Single | 2 = Double" />
+                    <!--<Picker x:Name="pkrBeamType" Title="Beam Type" SelectedIndexChanged="BeamType_SelectedIndexChanged">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>1</x:String>
+                            <x:String>2</x:String>
+                        </Picker.Items>
+                    </Picker>-->
+                    <Picker x:Name="pkrBeamCost" Title="Price of Beams" SelectedIndexChanged="BeamCost_SelectedIndexChanged" Margin="0,5">
+                        <Picker.Items>
+                            <x:String>0</x:String>
+                            <x:String>10</x:String>
+                            <x:String>15</x:String>
+                            <x:String>20</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label x:Name="lblBeamTtl" Text="Total: " />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

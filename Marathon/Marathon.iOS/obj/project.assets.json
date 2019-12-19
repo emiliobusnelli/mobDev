@@ -1389,11 +1389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.iOS/Marathon.iOS.csproj",
+      "projectUniqueName": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.iOS/Marathon.iOS.csproj",
       "projectName": "Marathon.iOS",
-      "projectPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.iOS/Marathon.iOS.csproj",
+      "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.iOS/Marathon.iOS.csproj",
       "packagesPath": "/Users/emilio/.nuget/packages/",
-      "outputPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon.iOS/obj/",
+      "outputPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1408,8 +1408,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
-              "projectPath": "/Users/emilio/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj"
+            "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj": {
+              "projectPath": "/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/Marathon/Marathon/Marathon.csproj"
             }
           }
         }

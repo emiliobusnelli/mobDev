@@ -1,0 +1,120 @@
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.iOS.exe
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.iOS.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_PartialAppManifest.items
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/actool/_BundleResourceWithLogicalName.items
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_PartialAppManifest.items
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2/optimized/
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.csprojAssemblyReference.cache
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.csproj.CopyComplete
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.exe
+/Users/emilio/Projects/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.iOS.exe
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.iOS.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/GeoLocate.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/actool/_PartialAppManifest.items
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/actool/_BundleResourceWithLogicalName.items
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/coremlc/_PartialAppManifest.items
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.5-13.2.2/optimized/
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.csproj.CopyComplete
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.exe
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/obj/iPhoneSimulator/Debug/GeoLocate.iOS.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll

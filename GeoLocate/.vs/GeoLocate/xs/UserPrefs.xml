@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{56AABC32-2F5E-4E97-86FE-365C4EEEB681}|Default">
+  <MonoDevelop.Ide.ItemProperties.GeoLocate.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeoLocate/MainPage.xaml.cs">
+    <Files>
+      <File FileName="GeoLocate/MainPage.xaml.cs" Line="51" Column="33" />
+      <File FileName="GeoLocate/MainPage.xaml" Line="15" Column="19" />
+      <File FileName="GeoLocate/App.xaml.cs" Line="14" Column="10" />
+      <File FileName="GeoLocate.iOS/AppDelegate.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeoLocate" expanded="True">
+            <Node name="GeoLocate" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="GeoLocate.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GeoLocate.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

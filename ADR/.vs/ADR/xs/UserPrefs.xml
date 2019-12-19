@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{C61649A7-B162-4BE4-A790-C68B0EE4E159}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADR/Views/EstimateDetailPage.xaml.cs">
+    <Files>
+      <File FileName="ADR/Views/LengthPage.xaml" Line="10" Column="139" />
+      <File FileName="ADR/Views/EstimationPage.xaml" Line="24" Column="1" />
+      <File FileName="ADR/Views/EstimateListPage.xaml" Line="19" Column="1" />
+      <File FileName="ADR/Views/EstimateDetailPage.xaml" Line="17" Column="30" />
+      <File FileName="ADR/Model/Estimate.cs" Line="153" Column="37" />
+      <File FileName="ADR/App.xaml.cs" Line="36" Column="1" />
+      <File FileName="ADR/Views/LengthPage.xaml.cs" Line="82" Column="1" />
+      <File FileName="ADR/Views/EstimateDetailPage.xaml.cs" Line="243" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADR" expanded="True">
+            <Node name="ADR" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="EstimateDetailPage.xaml" expanded="True">
+                  <Node name="EstimateDetailPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="EstimateListPage.xaml" expanded="True" />
+                <Node name="EstimationPage.xaml" expanded="True" />
+                <Node name="LengthPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ADR.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF26D15-B3F6-45F8-9D19-C1B575C719D8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ADR.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

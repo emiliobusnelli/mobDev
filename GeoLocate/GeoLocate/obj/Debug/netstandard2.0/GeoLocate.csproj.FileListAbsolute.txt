@@ -1,0 +1,26 @@
+/Users/emilio/Projects/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.deps.json
+/Users/emilio/Projects/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/ref/GeoLocate.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.pdb
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.csprojAssemblyReference.cache
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.AssemblyInfoInputs.cache
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.AssemblyInfo.cs
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/ref/GeoLocate.dll
+/Users/emilio/Projects/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.deps.json
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/ref/GeoLocate.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/bin/Debug/netstandard2.0/GeoLocate.pdb
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.csprojAssemblyReference.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.AssemblyInfoInputs.cache
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.AssemblyInfo.cs
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/ref/GeoLocate.dll
+/Users/emilio/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/mobDev/GeoLocate/GeoLocate/obj/Debug/netstandard2.0/GeoLocate.pdb
